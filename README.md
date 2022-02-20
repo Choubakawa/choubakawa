@@ -10,7 +10,7 @@
 
 # 👋 Hi
 
-I'm Choubakawa. Gamer and developper 🙂
+I'm [Choubakawa](https://choubakawa.fr/). Gamer and developper 🙂
 
 # 📊 My Stats
 
