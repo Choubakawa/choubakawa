@@ -4,6 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Choubakawa?color=FA8B00&logo=GitHub&style=for-the-badge)](https://github.com/Choubakawa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Choubakawa?color=1da1f2&label=FOLLOWERS&logo=twitter&style=for-the-badge)](https://twitter.com/Choubakawa)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG--MOfX6pbOxHYU-JeRbGw?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCG--MOfX6pbOxHYU-JeRbGw?sub_confirmation=1)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Choubakawa?color=ff4500&logo=reddit&style=for-the-badge)](https://www.reddit.com/user/Choubakawa)
 [![Twitch Status](https://img.shields.io/twitch/status/Choubakawa?color=9146ff&logo=twitch&style=for-the-badge)](https://twitch.tv/Choubakawa)
 
 
