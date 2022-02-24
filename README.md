@@ -1,5 +1,5 @@
 
-[![Super banner](https://user-images.githubusercontent.com/30017832/154855907-ea936801-8a4e-46df-9cea-87c58cbb5ca5.png)](https://choubakawa.fr/)
+[![Super banner](./images/witcher-sign.png)](https://choubakawa.fr/)
 
 [![GitHub followers](https://img.shields.io/github/followers/Choubakawa?color=FA8B00&logo=GitHub&style=for-the-badge)](https://github.com/Choubakawa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Choubakawa?color=1da1f2&label=FOLLOWERS&logo=twitter&style=for-the-badge)](https://twitter.com/Choubakawa)
